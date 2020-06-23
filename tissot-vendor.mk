@@ -156,6 +156,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tissot/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/xiaomi/tissot/proprietary/framework/rcsimssettings.jar:system/framework/rcsimssettings.jar \
     vendor/xiaomi/tissot/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
+    vendor/xiaomi/tissot/proprietary/etc/watermark_font_2300_3199.dat:system/etc/watermark_font_2300_3199.dat \
+    vendor/xiaomi/tissot/proprietary/fonts/Roboto-Thin.ttf:system/fonts/Roboto-Thin.ttf \
     vendor/xiaomi/tissot/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
     vendor/xiaomi/tissot/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
     vendor/xiaomi/tissot/proprietary/lib/hw/fingerprint.default.so:system/lib/hw/fingerprint.default.so \
